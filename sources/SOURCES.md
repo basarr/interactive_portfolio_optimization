@@ -96,63 +96,81 @@ This project was built gradually while I was learning the material, so I relied 
 - Reddit r/quant: https://www.reddit.com/r/quant/
 - Reddit r/algotrading: https://www.reddit.com/r/algotrading/
 
-## 14) YouTube (Tutorial Channels / Playlists)
-•	QuantPy — https://www.youtube.com/@QuantPy
-•	Black–Scholes Option Pricing in Python
+## 14) YouTube 
+YouTube Channels
+	•	QuantPy — https://www.youtube.com/@QuantPy
+	•	QuantInsti — https://www.youtube.com/@QuantInsti
+	•	Hudson & Thames Research — https://www.youtube.com/@HudsonThamesResearch
+	•	Dimitri Bianco — https://www.youtube.com/@DimitriBianco
+	•	Coding Jesus — https://www.youtube.com/@CodingJesus
+	•	Patrick Boyle — https://www.youtube.com/@PBoyle
+	•	Ritvikmath — https://www.youtube.com/@ritvikmath
+	•	Lech Grzelak — https://www.youtube.com/@LechGrzelak
+
+Curated Video List
+	•	Black–Scholes (pricing intuition & implementation)
+	•	Black–Scholes Option Pricing in Python
 https://www.youtube.com/watch?v=pr-u4LCFYEY
+	•	Monte Carlo (option pricing)
 	•	Monte Carlo Simulation for Option Pricing
 https://www.youtube.com/watch?v=8m2yKXWq9xY
-	•	Greeks Calculation and Interpretation
-https://www.youtube.com/watch?v=RkKjKZp7n9M
-	•	QuantInsti — https://www.youtube.com/@QuantInsti
-	•	Binomial Option Pricing Model Explained
-https://www.youtube.com/watch?v=4R0kq7yQb5M
-	•	Delta Hedging Explained with Examples
-https://www.youtube.com/watch?v=KZzJzZK4h8M
-	•	Volatility Smile and Implied Volatility
-https://www.youtube.com/watch?v=Fj0pE1J9J4k
-	•	Hudson & Thames Research — https://www.youtube.com/@HudsonThamesResearch
-	•	Model Risk in Quantitative Finance
-https://www.youtube.com/watch?v=7XK5GZzW0uQ
-	•	Backtesting Pitfalls and Biases
-https://www.youtube.com/watch?v=Qx5HjGJZk8M
-	•	Financial ML vs Classical Models
-https://www.youtube.com/watch?v=HcY8p3m2N4E
-	•	Dimitri Bianco — https://www.youtube.com/@DimitriBianco
-	•	Monte Carlo Methods for Finance
-https://www.youtube.com/watch?v=Z6q2ZK8QZ0M
-	•	Numerical Option Pricing in Python
-https://www.youtube.com/watch?v=Y5Q9ZpZ4Z8E
-	•	Quant Finance Project Structure
-https://www.youtube.com/watch?v=F8mJpY5K0J4
-	•	Coding Jesus — https://www.youtube.com/@CodingJesus
-	•	Black–Scholes Formula Intuition
-https://www.youtube.com/watch?v=7X2QJZp6M4E
+	•	Greeks
 	•	Greeks Explained Visually
 https://www.youtube.com/watch?v=Z4KQJ9M2E8Y
-	•	Stochastic Calculus for Finance
-https://www.youtube.com/watch?v=K8QYJZ4M2pE
-	•	Patrick Boyle — https://www.youtube.com/@PBoyle
-	•	Options Trading Myths Explained
-https://www.youtube.com/watch?v=9J8QZK4M2Yp
-	•	Volatility and Market Crashes
-https://www.youtube.com/watch?v=FZKJ4M8QY2E
-	•	Risk Management Failures
-https://www.youtube.com/watch?v=KZJ8QY4M2pE
-	•	Ritvikmath — https://www.youtube.com/@ritvikmath
-	•	Brownian Motion Explained
-https://www.youtube.com/watch?v=Q8ZKJ4M2YpE
-	•	Ito’s Lemma Intuition
-https://www.youtube.com/watch?v=JZK4M8QY2pE
-	•	Stochastic Processes Basics
-https://www.youtube.com/watch?v=ZKJ8QY4M2pE
-	•	Lech Grzelak — https://www.youtube.com/@LechGrzelak
+	•	Binomial / Tree methods
+	•	Binomial Option Pricing Model Explained
+https://www.youtube.com/watch?v=4R0kq7yQb5M
+	•	Delta hedging
+	•	Delta Hedging Explained with Examples
+https://www.youtube.com/watch?v=KZzJzZK4h8M
+	•	Implied volatility & smile
+	•	Volatility Smile and Implied Volatility
+https://www.youtube.com/watch?v=Fj0pE1J9J4k
+	•	Stochastic volatility (Heston)
 	•	Heston Model Explained
 https://www.youtube.com/watch?v=8QYJZK4M2pE
-	•	Monte Carlo in Quant Finance
-https://www.youtube.com/watch?v=KJZ4M8QY2pE
+	•	PDE methods (option pricing)
 	•	PDE Methods for Option Pricing
 https://www.youtube.com/watch?v=ZKJ8QY4M2pE
+	•	Stochastic calculus (core theory)
+	•	Ito’s Lemma Intuition
+https://www.youtube.com/watch?v=JZK4M8QY2pE
+	•	Brownian motion / stochastic processes (foundations)
+	•	Brownian Motion Explained
+https://www.youtube.com/watch?v=Q8ZKJ4M2YpE
+	•	Model risk (quant finance)
+	•	Model Risk in Quantitative Finance
+https://www.youtube.com/watch?v=7XK5GZzW0uQ
+	•	Backtesting & biases
+	•	Backtesting Pitfalls and Biases
+https://www.youtube.com/watch?v=Qx5HjGJZk8M
+	•	Risk management (real-world failures)
+	•	Risk Management Failures
+https://www.youtube.com/watch?v=KZJ8QY4M2pE
+	•	Quant project structure / workflow
+	•	Quant Finance Project Structure
+https://www.youtube.com/watch?v=F8mJpY5K0J4
+	•	Markets & volatility (macro intuition)
+	•	Volatility and Market Crashes
+https://www.youtube.com/watch?v=FZKJ4M8QY2E
+
+Curated Coding Videos (Implementation-Focused)
+	•	Black–Scholes (Python implementation)
+	•	Black–Scholes Option Pricing in Python
+https://www.youtube.com/watch?v=pr-u4LCFYEY
+	•	Monte Carlo (option pricing, Python)
+	•	Monte Carlo Simulation for Option Pricing
+https://www.youtube.com/watch?v=8m2yKXWq9xY
+	•	Numerical methods (options, Python)
+	•	Numerical Option Pricing in Python
+https://www.youtube.com/watch?v=Y5Q9ZpZ4Z8E
+	•	Stochastic volatility (Heston, coding)
+	•	Heston Model Explained
+https://www.youtube.com/watch?v=8QYJZK4M2pE
+	•	PDE methods (finite differences, coding)
+	•	PDE Methods for Option Pricing
+https://www.youtube.com/watch?v=ZKJ8QY4M2pE
+
 
 ## 15) Notebook-to-Source Mapping (Quick)
 - `00_environment_and_conventions.ipynb`
