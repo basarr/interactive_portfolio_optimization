@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+.env
+
+# Data and outputs
+results/figures/*.png
+results/tables/*.csv
+results/logs/*
+results/reports/*
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!results/figures/.gitkeep
+!results/tables/.gitkeep
+!results/logs/.gitkeep
+!results/reports/.gitkeep
+
+# Notebook artifacts
+notebooks/.ipynb_checkpoints/
