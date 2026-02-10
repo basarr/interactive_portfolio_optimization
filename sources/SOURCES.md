@@ -9,6 +9,8 @@ The sources listed here are not everything I used, and I also did not use everyt
 
 This project was built gradually while I was learning the material, so I relied heavily on tutorials, forums, and especially video content to understand concepts and implementation details. I tried to keep my use of AI tools to a minimum, but since this was a continuous learning project, AI was used only as an educational tool—to clarify concepts, check understanding, and support learning—not to generate final solutions.
 
+one of the most used and revisited source is: https://xilinx.github.io/Vitis_Libraries/quantitative_finance/2019.2/index.html 
+
 ⸻
 
 1) Core Option Pricing Theory (Primary Literature + Standard Texts)
