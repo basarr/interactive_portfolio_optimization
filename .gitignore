@@ -24,6 +24,7 @@ data/processed/*
 !results/tables/.gitkeep
 !results/logs/.gitkeep
 !results/reports/.gitkeep
+!results/reports/*.md
 
 # Notebook artifacts
 notebooks/.ipynb_checkpoints/
